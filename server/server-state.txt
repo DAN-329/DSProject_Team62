@@ -1,0 +1,15 @@
+serverone,0,,0
+serverthree,0,,0
+servertwo,0,,0
+serverone,1,serverthree,0
+servertwo,1,serverthree,0
+serverone,2,servertwo,0
+servertwo,2,servertwo,1
+serverone,2,servertwo,1
+servertwo,2,servertwo,2
+serverone,2,servertwo,2
+servertwo,2,servertwo,3
+serverone,2,servertwo,3
+serverthree,0,,0
+serverthree,2,,3
+servertwo,3,serverone,3
